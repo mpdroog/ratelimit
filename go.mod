@@ -1,4 +1,4 @@
-module github.com/mpdroog/ratelimit-1
+module github.com/mpdroog/ratelimit
 
 go 1.13
 
